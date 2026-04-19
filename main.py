@@ -144,7 +144,7 @@ print("Absent:", absent)
 # =========================
 # SEND WHATSAPP ALERT
 # =========================
-phone = "+919010735139"
+phone = "+91XXXXXXXXXX"
 
 for student in absent:
     message = f"{student} is absent today"
